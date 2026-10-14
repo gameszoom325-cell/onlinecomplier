@@ -1,0 +1,6 @@
+{
+  "name": "CodeRunner - Online Compiler & IDE",
+  "description": "High-performance online code runner and sandbox supporting C, C++, Python, Java, JavaScript, Go, Rust, and more with instant execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
